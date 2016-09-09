@@ -10,5 +10,5 @@ package com.toy.anagrams.ui;
  * @author moi
  */
 public class NewClass {
-    //// nueva lcase desto es de prueba ok oko kokokokokok
+    //modificado desde github
 }
