@@ -38,7 +38,7 @@ public abstract class WordLibrary {
     /**
      * Constructor for subclasses.
      */
-    protected WordLibrary() {
+    protected WordLibrary() { 
     }
     
     /** Getter for the default implementation of the WordLibrary.
